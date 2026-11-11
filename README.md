@@ -1,1 +1,1 @@
-Solving the male literary crisis by serving fiction through twitch chat.
+Solving the male literacy crisis by serving fiction through twitch chat.
