@@ -7,6 +7,7 @@ __pycache__/
 # we do not want to push any data to github
 books/*.epub
 data/betterttv/*.json
+assets/emotes/*.gif
 
 # C extensions
 *.so
